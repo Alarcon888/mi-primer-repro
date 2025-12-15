@@ -1,4 +1,4 @@
-ALASADA # mi-primer-repro
+ALASADA_mi_primer_repro
 voy a hacer mi primer repositorio
 Daniel Alarcón Sánchez
 Grado Superior en Gestión de Ventas y Espacios Comerciales
